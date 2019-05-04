@@ -14,7 +14,7 @@ faceCascade = cv2.CascadeClassifier(cascadePath);
 font = cv2.FONT_HERSHEY_SIMPLEX
 #iniciate id counter
 id = 0
-# names related to ids: example ==> Marcelo: id=1,  etc
+# names related to ids: example ==> Reham: id=1,  etc
 names = ['None', 'Reham', 'Mohamed', 'Ahmed','Mahmoud'] 
 # Initialize and start realtime video capture
 cam = cv2.VideoCapture(0)
