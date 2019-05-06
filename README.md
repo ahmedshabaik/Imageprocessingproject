@@ -10,7 +10,7 @@ Image Processing project
 - The code can be run from outside by just pressing on the python file so it’s very easy to deal with. 
 
 - This work is made by : 
-1- Ahmed Shabaik
-2- Reham Reda 
-3- Mahmoud Ahmed Arafa 
-4- Mohamad Abd Elraouf
+1-Reham Reda  
+2-Ahmed Shabaik 
+3-Mahmoud Ahmed Arafa 
+4-Mohamad Abd Elraouf
